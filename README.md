@@ -1,6 +1,6 @@
 # Consul
-
-[![](https://images.microbadger.com/badges/image/dwolla/dconsul.svg)](https://microbadger.com/images/dwolla/consul)
-[![license](https://img.shields.io/github/license/dwolla/docker-consul.svg?style=flat-square)](https://github.com/Dwolla/docker-consul/blob/master/LICENSE)
+![GitHub](https://img.shields.io/github/workflow/status/dwolla/docker-consul/Continuous%20Deployment/main?style=flat-square)
+[![Docker](https://img.shields.io/docker/v/dwolla/consul?style=flat-square)](https://hub.docker.com/repository/docker/dwolla/consul)
+[![license](https://img.shields.io/github/license/dwolla/docker-consul.svg?style=flat-square)](https://github.com/Dwolla/docker-consul/blob/master/LICENSE.md)
 
 Docker image for running HashiCorp's Consul.
